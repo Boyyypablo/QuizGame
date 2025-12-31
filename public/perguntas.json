@@ -1,0 +1,804 @@
+{
+    "cartas_quebra_gelo": [
+      {
+        "id": 1,
+        "perguntas": [
+          "Qual é o hábito mais estranho que você tem quando está sozinho?",
+          "Se você pudesse mudar seu primeiro nome, qual escolheria?",
+          "Qual é a tarefa doméstica que você mais detesta fazer?"
+        ]
+      },
+      {
+        "id": 2,
+        "perguntas": [
+          "Qual foi a compra mais inútil que você já fez na vida?",
+          "Qual é o seu 'prazer culposo' (guilty pleasure) favorito?",
+          "Você prefere acordar muito cedo ou passar a noite acordado?"
+        ]
+      },
+      {
+        "id": 3,
+        "perguntas": [
+          "Se você tivesse que se mudar para outro país amanhã, para onde iria?",
+          "Qual foi a viagem mais desastrosa que você já fez?",
+          "Você prefere uma viagem de luxo relaxante ou uma aventura mochileira?"
+        ]
+      },
+      {
+        "id": 4,
+        "perguntas": [
+          "Qual é o lugar mais bonito onde você já esteve?",
+          "Se você pudesse viajar no tempo, iria para o futuro ou para o passado?",
+          "Qual comida exótica você jamais teria coragem de experimentar?"
+        ]
+      },
+      {
+        "id": 5,
+        "perguntas": [
+          "Se dinheiro não fosse problema, qual seria o emprego dos seus sonhos?",
+          "Qual foi o pior emprego ou estágio que você já teve?",
+          "Qual habilidade nova você gostaria de aprender em apenas 24 horas?"
+        ]
+      },
+      {
+        "id": 6,
+        "perguntas": [
+          "Você prefere trabalhar em silêncio absoluto ou ouvindo música?",
+          "Qual é a sua maior distração quando precisa focar em algo?",
+          "Se você fosse escrever um livro, sobre o que ele seria?"
+        ]
+      },
+      {
+        "id": 7,
+        "perguntas": [
+          "Se você fosse um super-herói, qual seria o seu ponto fraco?",
+          "Se pudesse falar com qualquer animal, qual espécie escolheria?",
+          "Se você ganhasse na loteria hoje, quem seria a primeira pessoa para quem você ligaria?"
+        ]
+      },
+      {
+        "id": 8,
+        "perguntas": [
+          "Qual objeto da sua casa você salvaria primeiro em um incêndio?",
+          "Se sua vida fosse um filme, qual ator/atriz interpretaria você?",
+          "Se você pudesse jantar com qualquer pessoa da história, quem seria?"
+        ]
+      },
+      {
+        "id": 9,
+        "perguntas": [
+          "Qual era o seu desenho animado favorito quando criança?",
+          "Qual foi a maior travessura que você fez na escola?",
+          "Qual brinquedo você sempre quis ter, mas nunca ganhou?"
+        ]
+      },
+      {
+        "id": 10,
+        "perguntas": [
+          "Qual era a sua matéria favorita no colégio?",
+          "Qual cheiro traz as melhores lembranças para você?",
+          "Quem foi o seu primeiro ídolo famoso?"
+        ]
+      },
+      {
+        "id": 11,
+        "perguntas": [
+          "O que você gostaria que as pessoas dissessem sobre você?",
+          "Qual é o conselho que você daria para o seu 'eu' de 10 anos atrás?",
+          "O que mais te tira a paciência no dia a dia?"
+        ]
+      },
+      {
+        "id": 12,
+        "perguntas": [
+          "Você acredita em sorte ou em trabalho duro?",
+          "Qual é a característica que você mais admira em um amigo?",
+          "Qual foi a decisão mais difícil que você já tomou?"
+        ]
+      },
+      {
+        "id": 13,
+        "perguntas": [
+          "Qual aplicativo você deletaria permanentemente da face da terra?",
+          "Quanto tempo você consegue ficar sem checar o celular?",
+          "Você prefere áudio de 5 minutos ou uma ligação de 10 minutos?"
+        ]
+      },
+      {
+        "id": 14,
+        "perguntas": [
+          "Qual é a sua 'comida de conforto' oficial?",
+          "Pizza com abacaxi: crime gastronômico ou uma delícia?",
+          "Qual série você já assistiu mais de três vezes?"
+        ]
+      },
+      {
+        "id": 15,
+        "perguntas": [
+          "Qual filme todo mundo ama, mas você secretamente odeia?",
+          "Você prefere sempre falar a verdade absoluta ou nunca mais poder falar?",
+          "Se você pudesse ter um suprimento infinito de uma comida, qual seria?"
+        ]
+      },
+      {
+        "id": 16,
+        "perguntas": [
+          "Qual é a sua maior mania de organização (ou desorganização)?",
+          "Você prefere calor extremo ou frio extremo?",
+          "Qual foi o último show ou evento ao vivo que você amou?"
+        ]
+      },
+      {
+        "id": 17,
+        "perguntas": [
+          "Se você pudesse ser invisível por um dia, o que faria?",
+          "Qual é a palavra que você acha mais bonita na língua portuguesa?",
+          "Você prefere doce ou salgado?"
+        ]
+      },
+      {
+        "id": 18,
+        "perguntas": [
+          "Qual é o seu talento oculto que quase ninguém conhece?",
+          "Você já passou por alguma experiência sobrenatural?",
+          "Qual é o seu feriado favorito e por quê?"
+        ]
+      },
+      {
+        "id": 19,
+        "perguntas": [
+          "Se você pudesse trocar de vida com alguém por um dia, quem seria?",
+          "Você prefere cinema em casa ou ir ao cinema físico?",
+          "Qual é a primeira coisa que você faz ao acordar?"
+        ]
+      },
+      {
+        "id": 20,
+        "perguntas": [
+          "Você é uma pessoa de cães ou de gatos?",
+          "Qual foi o melhor presente que você já recebeu?",
+          "Qual é a sua música favorita de karaokê?"
+        ]
+      },
+      {
+        "id": 21,
+        "perguntas": [
+          "Se você pudesse dominar qualquer instrumento musical, qual seria?",
+          "Você acredita em alienígenas?",
+          "Qual é a sua maior fobia ou medo irracional?"
+        ]
+      },
+      {
+        "id": 22,
+        "perguntas": [
+          "Você prefere montanha-russa ou roda-gigante?",
+          "Qual é o seu signo e você acha que ele combina com você?",
+          "Se você pudesse banir uma peça de roupa para sempre, qual seria?"
+        ]
+      },
+      {
+        "id": 23,
+        "perguntas": [
+          "Qual é a sua estação do ano preferida?",
+          "Você prefere livros físicos ou e-books?",
+          "Qual foi a maior vergonha que você já passou em público?"
+        ]
+      },
+      {
+        "id": 24,
+        "perguntas": [
+          "Se você pudesse criar uma lei, qual seria?",
+          "Você prefere viajar para o espaço ou para o fundo do oceano?",
+          "Qual é a sua pizza favorita?"
+        ]
+      },
+      {
+        "id": 25,
+        "perguntas": [
+          "Você já quebrou algum osso? Como foi?",
+          "Qual é a rede social que você mais usa?",
+          "Você prefere tomar banho de manhã ou à noite?"
+        ]
+      },
+      {
+        "id": 26,
+        "perguntas": [
+          "Se você pudesse ter qualquer animal exótico como pet, qual seria?",
+          "Qual é a sua maior realização da qual se orgulha?",
+          "Você prefere chá ou café?"
+        ]
+      },
+      {
+        "id": 27,
+        "perguntas": [
+          "Qual é o melhor sabor de sorvete do mundo?",
+          "Se você pudesse esquecer um filme só para ver de novo pela primeira vez, qual seria?",
+          "Você é mais de planejar tudo ou de deixar acontecer?"
+        ]
+      },
+      {
+        "id": 28,
+        "perguntas": [
+          "Qual é a sua cidade favorita no mundo?",
+          "Você prefere acampar na floresta ou ficar em um hotel 5 estrelas?",
+          "Qual é a sua lembrança mais antiga de infância?"
+        ]
+      },
+      {
+        "id": 29,
+        "perguntas": [
+          "Se você tivesse um canal no YouTube, sobre o que ele seria?",
+          "Você prefere parques temáticos ou museus?",
+          "Qual é a sua combinação de comida mais estranha que você gosta?"
+        ]
+      },
+      {
+        "id": 30,
+        "perguntas": [
+          "Você já ganhou algum prêmio ou troféu?",
+          "Qual é a sua cor favorita para usar em roupas?",
+          "Se você pudesse teletransportar agora para qualquer lugar, onde estaria?"
+        ]
+      },
+      {
+        "id": 31,
+        "perguntas": [
+          "Você prefere nadar em piscina, rio ou mar?",
+          "Qual é o objeto mais antigo que você possui?",
+          "Você prefere filmes de terror ou comédias românticas?"
+        ]
+      },
+      {
+        "id": 32,
+        "perguntas": [
+          "Qual é a sua gíria favorita do momento?",
+          "Se você pudesse ter um jantar com um personagem de ficção, quem seria?",
+          "Você prefere cozinhar ou lavar a louça?"
+        ]
+      },
+      {
+        "id": 33,
+        "perguntas": [
+          "Qual é o seu jogo de tabuleiro ou de cartas favorito?",
+          "Se você pudesse mudar uma coisa na sua rotina, o que seria?",
+          "Você prefere podcasts ou audiolivros?"
+        ]
+      },
+      {
+        "id": 34,
+        "perguntas": [
+          "Qual é a primeira coisa que você nota em alguém quando a conhece?",
+          "Você já fez alguma loucura por amor ou amizade?",
+          "Qual é a sua opinião sobre inteligência artificial?"
+        ]
+      },
+      {
+        "id": 35,
+        "perguntas": [
+          "Você prefere cidades grandes e agitadas ou vilarejos calmos?",
+          "Qual é a sua sobremesa indispensável?",
+          "Se você pudesse ser um atleta olímpico, em qual esporte seria?"
+        ]
+      },
+      {
+        "id": 36,
+        "perguntas": [
+          "Você prefere o nascer ou o pôr do sol?",
+          "Qual é o seu 'look' favorito para um dia relaxante?",
+          "Você já teve algum apelido engraçado ou estranho?"
+        ]
+      },
+      {
+        "id": 37,
+        "perguntas": [
+          "Qual é a sua maior motivação para sair da cama todos os dias?",
+          "Você prefere trabalhar sozinho ou em equipe?",
+          "Qual é o seu sabor de suco favorito?"
+        ]
+      },
+      {
+        "id": 38,
+        "perguntas": [
+          "Se você pudesse ver o futuro, o que gostaria de saber?",
+          "Você prefere ganhar um presente caro ou algo feito à mão?",
+          "Qual é a sua série de desenhos favorita de quando era adolescente?"
+        ]
+      },
+      {
+        "id": 39,
+        "perguntas": [
+          "Você prefere dançar ou cantar (mesmo que não saiba)?",
+          "Qual é a sua maior curiosidade sobre o universo?",
+          "Você prefere dias ensolarados ou dias de chuva?"
+        ]
+      },
+      {
+        "id": 40,
+        "perguntas": [
+          "Qual foi o melhor conselho que você já recebeu de um estranho?",
+          "Se você pudesse ser um personagem de videogame, qual seria?",
+          "Você prefere parques de diversão ou zoológicos?"
+        ]
+      },
+      {
+        "id": 41,
+        "perguntas": [
+          "Qual é a sua marca de sapatos favorita?",
+          "Se você pudesse viver em qualquer década do século XX, qual escolheria?",
+          "Você prefere fones de ouvido ou som alto na caixa?"
+        ]
+      },
+      {
+        "id": 42,
+        "perguntas": [
+          "Qual é a sua fruta favorita?",
+          "Se você pudesse trocar de voz com alguém, de quem seria?",
+          "Você prefere pão na chapa ou tapioca?"
+        ]
+      },
+      {
+        "id": 43,
+        "perguntas": [
+          "Qual é o seu tipo de exercício físico favorito?",
+          "Se você fosse uma cor, qual seria e por quê?",
+          "Você prefere o Natal ou o Ano Novo?"
+        ]
+      },
+      {
+        "id": 44,
+        "perguntas": [
+          "Qual é a sua maior 'red flag' em uma amizade?",
+          "Você prefere sapatos abertos ou fechados?",
+          "Qual é o seu cheiro de perfume favorito?"
+        ]
+      },
+      {
+        "id": 45,
+        "perguntas": [
+          "Se você pudesse apagar um evento da história, qual seria?",
+          "Você prefere queijo ou chocolate?",
+          "Qual é o seu vídeo favorito da internet?"
+        ]
+      },
+      {
+        "id": 46,
+        "perguntas": [
+          "Se você pudesse morar em um barco ou em um motorhome, qual escolheria?",
+          "Você prefere festas grandes ou reuniões íntimas?",
+          "Qual é a sua planta ou flor favorita?"
+        ]
+      },
+      {
+        "id": 47,
+        "perguntas": [
+          "Se você pudesse ter um robô para fazer uma única tarefa, qual seria?",
+          "Você prefere hambúrguer ou sushi?",
+          "Qual é o seu herói da vida real?"
+        ]
+      },
+      {
+        "id": 48,
+        "perguntas": [
+          "Se você pudesse aprender uma língua morta (como latim), aprenderia?",
+          "Você prefere ir ao teatro ou a um estádio de futebol?",
+          "Qual é a sua maior dúvida existencial?"
+        ]
+      },
+      {
+        "id": 49,
+        "perguntas": [
+          "Se você pudesse mudar a cor do céu, qual cor escolheria?",
+          "Você prefere pipoca doce ou salgada?",
+          "Qual foi o sonho mais estranho que você já teve?"
+        ]
+      },
+      {
+        "id": 50,
+        "perguntas": [
+          "Se você pudesse criar um novo feriado, o que seria comemorado?",
+          "Você prefere usar jeans ou moletom?",
+          "Qual é a sua maior virtude, na sua opinião?"
+        ]
+      },
+      {
+        "id": 51,
+        "perguntas": [
+          "Se você pudesse ter uma porta mágica para qualquer lugar, para onde levaria?",
+          "Você prefere suco natural ou refrigerante?",
+          "Qual é o seu passatempo favorito de domingo à tarde?"
+        ]
+      },
+      {
+        "id": 52,
+        "perguntas": [
+          "Se você pudesse ser um mestre em qualquer arte marcial, qual seria?",
+          "Você prefere janelas abertas ou ar-condicionado?",
+          "Qual é a sua rede de fast-food favorita?"
+        ]
+      },
+      {
+        "id": 53,
+        "perguntas": [
+          "Se você pudesse falar todos os idiomas do mundo, qual seria o primeiro país que visitaria?",
+          "Você prefere caneta azul ou preta?",
+          "Qual é o seu maior arrependimento de moda?"
+        ]
+      },
+      {
+        "id": 54,
+        "perguntas": [
+          "Se você pudesse transformar qualquer atividade em esporte olímpico, o que ganharia ouro?",
+          "Você prefere banho de banheira ou chuveiro potente?",
+          "Qual é a sua maior 'green flag' em uma pessoa?"
+        ]
+      },
+      {
+        "id": 55,
+        "perguntas": [
+          "Se você pudesse ser uma criatura mitológica, qual seria?",
+          "Você prefere ler o livro antes de ver o filme ou o contrário?",
+          "Qual é o seu molho favorito para acompanhamento?"
+        ]
+      },
+      {
+        "id": 56,
+        "perguntas": [
+          "Se você fosse um pirata, qual seria o nome do seu navio?",
+          "Você prefere fotos espontâneas ou posadas?",
+          "Qual é a sua característica física favorita em você?"
+        ]
+      },
+      {
+        "id": 57,
+        "perguntas": [
+          "Se você pudesse ter um jardim infinito, o que plantaria nele?",
+          "Você prefere café da manhã de hotel ou jantar de restaurante chique?",
+          "Qual é o seu ditado popular favorito?"
+        ]
+      },
+      {
+        "id": 58,
+        "perguntas": [
+          "Se você pudesse ter a resposta para qualquer mistério não resolvido, qual escolheria?",
+          "Você prefere meias coloridas ou básicas?",
+          "Qual é o seu sabor de chiclete favorito?"
+        ]
+      },
+      {
+        "id": 59,
+        "perguntas": [
+          "Se você pudesse ser o dono de qualquer empresa do mundo, qual seria?",
+          "Você prefere assistir a esportes ou praticá-los?",
+          "Qual é a sua maior mania ao comer?"
+        ]
+      },
+      {
+        "id": 60,
+        "perguntas": [
+          "Se você pudesse viver em um castelo ou em uma casa futurista, qual escolheria?",
+          "Você prefere o mar calmo ou com ondas grandes?",
+          "Qual é a sua peça de decoração favorita na sua casa?"
+        ]
+      },
+      {
+        "id": 61,
+        "perguntas": [
+          "Se você pudesse dar um nome a uma nova estrela, qual seria?",
+          "Você prefere o Batman ou o Superman?",
+          "Qual é a sua técnica para lidar com o estresse?"
+        ]
+      },
+      {
+        "id": 62,
+        "perguntas": [
+          "Se você pudesse ter um jantar com três celebridades vivas, quem seriam?",
+          "Você prefere o cheiro de grama cortada ou o cheiro de chuva?",
+          "Qual é a sua maior habilidade na cozinha?"
+        ]
+      },
+      {
+        "id": 63,
+        "perguntas": [
+          "Se você pudesse ser um personagem da Disney, qual seria?",
+          "Você prefere relógio de pulso analógico ou digital?",
+          "Qual é a sua rede social menos favorita?"
+        ]
+      },
+      {
+        "id": 64,
+        "perguntas": [
+          "Se você pudesse redesenhar a bandeira do seu país, o que colocaria nela?",
+          "Você prefere viajar sozinho ou acompanhado?",
+          "Qual é o seu aplicativo de entrega de comida favorito?"
+        ]
+      },
+      {
+        "id": 65,
+        "perguntas": [
+          "Se você pudesse viver em um mundo de desenho animado, qual seria?",
+          "Você prefere usar óculos de sol ou chapéu?",
+          "Qual é o seu maior objetivo para este ano?"
+        ]
+      },
+      {
+        "id": 66,
+        "perguntas": [
+          "Se você pudesse ter uma aura de qualquer cor, qual seria?",
+          "Você prefere montanhas cobertas de neve ou desertos de areia?",
+          "Qual é a sua maior curiosidade sobre o futuro da humanidade?"
+        ]
+      },
+      {
+        "id": 67,
+        "perguntas": [
+          "Se você pudesse ser o melhor do mundo em uma coisa inútil, o que seria?",
+          "Qual pergunta você mais gosta de responder em jogos?",
+          "Qual é a coisa mais corajosa que você já fez?"
+        ]
+      },
+      {
+        "id": 68,
+        "perguntas": [
+          "Se você pudesse ser um expert em qualquer assunto sem estudar, o que seria?",
+          "Você prefere uma casa pequena na floresta ou um apartamento gigante na cidade?",
+          "Qual é o seu tipo de museu favorito?"
+        ]
+      },
+      {
+        "id": 69,
+        "perguntas": [
+          "Se você pudesse criar um novo sabor de refrigerante, qual seria?",
+          "Você prefere ter a capacidade de voar ou de respirar embaixo d'água?",
+          "Qual é a primeira coisa que você compraria se ganhasse 10 mil reais hoje?"
+        ]
+      },
+      {
+        "id": 70,
+        "perguntas": [
+          "Você prefere ver um show de mágica ou um show de comédia?",
+          "Qual é a regra de etiqueta que você acha mais desnecessária?",
+          "Se você pudesse ter um estoque infinito de um produto de limpeza, qual seria?"
+        ]
+      },
+      {
+        "id": 71,
+        "perguntas": [
+          "Você prefere um estilo de vida minimalista ou cheio de coleções?",
+          "Qual é a sua maior meta de curto prazo?",
+          "Se você fosse um animal, seria um animal doméstico ou selvagem?"
+        ]
+      },
+      {
+        "id": 72,
+        "perguntas": [
+          "Você prefere dormir com a porta do quarto aberta ou fechada?",
+          "Qual é o seu jogo de videogame favorito de todos os tempos?",
+          "Se você pudesse eliminar uma música da história, qual seria?"
+        ]
+      },
+      {
+        "id": 73,
+        "perguntas": [
+          "Você prefere receber visitas em casa ou sair para encontrar as pessoas?",
+          "Qual é a sua sobremesa de infância favorita?",
+          "Se você pudesse ter qualquer carro clássico, qual escolheria?"
+        ]
+      },
+      {
+        "id": 74,
+        "perguntas": [
+          "Você prefere trabalhar em um lugar muito frio ou muito quente?",
+          "Qual é o seu hábito de sono mais estranho?",
+          "Se você pudesse ser um mentor de alguém, o que ensinaria?"
+        ]
+      },
+      {
+        "id": 75,
+        "perguntas": [
+          "Você prefere ser o capitão de um navio ou o piloto de um avião?",
+          "Qual é a sua rede social favorita para passar o tempo?",
+          "Se você pudesse falar com o seu pet, qual a primeira pergunta faria?"
+        ]
+      },
+      {
+        "id": 76,
+        "perguntas": [
+          "Você prefere usar roupas de cores neutras ou cores vibrantes?",
+          "Qual é o seu lugar favorito para pensar na vida?",
+          "Se você pudesse ser um personagem de uma série que já acabou, quem seria?"
+        ]
+      },
+      {
+        "id": 77,
+        "perguntas": [
+          "Você prefere ler notícias em portais ou assistir na TV?",
+          "Qual foi o encontro mais aleatório que você já teve com uma celebridade?",
+          "Se você pudesse mudar a capital do país para outra cidade, qual seria?"
+        ]
+      },
+      {
+        "id": 78,
+        "perguntas": [
+          "Você prefere banho de mar em águas geladas ou águas mornas?",
+          "Qual é o seu maior 'talento inútil'?",
+          "Se você pudesse ter um cinema particular ou uma pista de boliche em casa?"
+        ]
+      },
+      {
+        "id": 79,
+        "perguntas": [
+          "Você prefere passar um dia sem internet ou um dia sem eletricidade?",
+          "Qual é o seu estilo de playlist favorito?",
+          "Se você fosse convidado para um reality show, qual seria?"
+        ]
+      },
+      {
+        "id": 80,
+        "perguntas": [
+          "Você prefere viajar de trem ou de avião?",
+          "Qual é a sua primeira lembrança de um aniversário seu?",
+          "Se você pudesse ser um dublador, que tipo de voz gostaria de fazer?"
+        ]
+      },
+      {
+        "id": 81,
+        "perguntas": [
+          "Você prefere comer a mesma coisa todo dia ou nunca repetir o prato?",
+          "Qual é o item de decoração mais estranho que você tem em casa?",
+          "Se você pudesse dar um conselho para o presidente, qual seria?"
+        ]
+      },
+      {
+        "id": 82,
+        "perguntas": [
+          "Você prefere ter uma memória perfeita ou poder esquecer o que quiser?",
+          "Qual é o seu tipo de queijo favorito?",
+          "Se você pudesse ser o protagonista de um musical, qual seria?"
+        ]
+      },
+      {
+        "id": 83,
+        "perguntas": [
+          "Você prefere ganhar um buquê de flores ou uma cesta de café da manhã?",
+          "Qual é a sua maior 'gastura' ou aflição?",
+          "Se você pudesse ver qualquer banda que já acabou, qual seria?"
+        ]
+      },
+      {
+        "id": 84,
+        "perguntas": [
+          "Você prefere ter dez amigos próximos ou cem conhecidos?",
+          "Qual é o seu tempero favorito na cozinha?",
+          "Se você pudesse inventar um novo feriado, que dia seria?"
+        ]
+      },
+      {
+        "id": 85,
+        "perguntas": [
+          "Você prefere assistir a filmes legendados ou dublados?",
+          "Qual é a parte favorita da sua casa?",
+          "Se você pudesse ser um mestre na oratória ou na escrita?"
+        ]
+      },
+      {
+        "id": 86,
+        "perguntas": [
+          "Você prefere caminhar em um parque ou em um shopping?",
+          "Qual é a história de família favorita que sempre contam?",
+          "Se você pudesse saber a data da sua morte, você gostaria?"
+        ]
+      },
+      {
+        "id": 87,
+        "perguntas": [
+          "Você prefere doces de padaria ou doces de festa?",
+          "Qual é o seu 'personagem histórico' favorito?",
+          "Se você pudesse ter uma conversa com qualquer líder mundial, quem seria?"
+        ]
+      },
+      {
+        "id": 88,
+        "perguntas": [
+          "Você prefere um mês sem redes sociais ou um mês sem tomar banho?",
+          "Qual é o objeto mais caro que você já comprou?",
+          "Se você pudesse ser uma divindade grega, qual seria?"
+        ]
+      },
+      {
+        "id": 89,
+        "perguntas": [
+          "Você prefere usar perfume doce ou amadeirado?",
+          "Qual é a sua atividade favorita para um dia de chuva?",
+          "Se você pudesse ter um mordomo ou um motorista particular?"
+        ]
+      },
+      {
+        "id": 90,
+        "perguntas": [
+          "Você prefere pão de queijo ou coxinha?",
+          "Qual é a sua maior dúvida sobre o futuro da tecnologia?",
+          "Se você pudesse mudar a cor dos seus olhos, qual escolheria?"
+        ]
+      },
+      {
+        "id": 91,
+        "perguntas": [
+          "Você prefere ficção científica ou filmes baseados em fatos reais?",
+          "Qual aplicativo você usa por obrigação e não por prazer?",
+          "Se você pudesse dormir em uma rede ou em uma cama box?"
+        ]
+      },
+      {
+        "id": 92,
+        "perguntas": [
+          "Você prefere ser um prodígio na matemática ou nas artes?",
+          "Qual é a sua lembrança favorita de um dia na escola?",
+          "Se você pudesse visitar a Lua por uma hora, você iria?"
+        ]
+      },
+      {
+        "id": 93,
+        "perguntas": [
+          "Você prefere chocolate ao leite, amargo ou branco?",
+          "Qual característica de personalidade você mais tenta melhorar?",
+          "Se você pudesse ter o guarda-roupa de qual celebridade?"
+        ]
+      },
+      {
+        "id": 94,
+        "perguntas": [
+          "Você prefere acordar com o som de pássaros ou do mar?",
+          "Qual é o melhor tipo de presente de 'Amigo Oculto'?",
+          "Se magia existisse, qual seria sua especialidade?"
+        ]
+      },
+      {
+        "id": 95,
+        "perguntas": [
+          "Você prefere ler uma revista física ou um blog online?",
+          "Qual é a sua maior reclamação sobre a vida adulta?",
+          "Se pudesse redesenhar o uniforme de qual profissão?"
+        ]
+      },
+      {
+        "id": 96,
+        "perguntas": [
+          "Você prefere ketchup ou maionese?",
+          "Qual é o seu lugar dos sonhos para passar a aposentadoria?",
+          "Se você pudesse fazer uma pergunta a um fantasma, o que seria?"
+        ]
+      },
+      {
+        "id": 97,
+        "perguntas": [
+          "Você prefere ser um explorador do espaço ou um arqueólogo?",
+          "Qual é a sua opinião sincera sobre signos?",
+          "Se você pudesse mudar o final de qualquer livro, qual seria?"
+        ]
+      },
+      {
+        "id": 98,
+        "perguntas": [
+          "Você prefere um festival de música ou uma feira gastronômica?",
+          "Qual é a sua marca de tecnologia favorita?",
+          "Se você pudesse falar com o seu 'eu' do futuro, o que perguntaria?"
+        ]
+      },
+      {
+        "id": 99,
+        "perguntas": [
+          "Você prefere suco de laranja ou suco de uva?",
+          "Qual é a sua rotina ideal de autocuidado?",
+          "Se você fosse um vilão de filme, qual seria seu plano?"
+        ]
+      },
+      {
+        "id": 100,
+        "perguntas": [
+          "Você prefere casa com jardim ou cobertura com piscina?",
+          "Qual é o maior desafio que você superou este ano?",
+          "Se o mundo fosse acabar em uma hora, o que você faria?"
+        ]
+      }
+    ]
+  }
