@@ -108,7 +108,6 @@ function App() {
                 card={currentCard}
                 onNext={handleNextCard}
                 hasMoreCards={cardsRemaining > 0}
-                isDrawing={isDrawing}
               />
             ) : (
               <div className="no-card-message">

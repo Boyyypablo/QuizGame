@@ -9,10 +9,9 @@ interface CardProps {
   card: CardData | null;
   onNext: () => void;
   hasMoreCards: boolean;
-  isDrawing: boolean;
 }
 
-export function Card({ card, onNext, hasMoreCards, isDrawing }: CardProps) {
+export function Card({ card, onNext, hasMoreCards }: CardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
   const [isExiting, setIsExiting] = useState(false);
 
